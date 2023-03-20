@@ -7,3 +7,4 @@ var isSubsequence = function (s, t) {
         }
     return (s.length === x)
 };
+
